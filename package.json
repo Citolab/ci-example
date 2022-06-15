@@ -12,10 +12,12 @@
     "preact": "10.7.3"
   },
   "devDependencies": {
-    "@citolab/tspci": "^2.0.7",
-    "@citolab/tspci-qbci": "^2.0.7"
+    "@citolab/tspci": "^2.0.9",
+    "@citolab/tspci-qbci": "^2.0.9",
+    "autoprefixer": "^10.4.7"
   },
   "scripts": {
+    "start": "set ROLLUP_WATCH=true && tspci --dev qbci",
     "dev": "set ROLLUP_WATCH=true && tspci --dev qbci",
     "package-qbci": "tspci --target qbci"
   },
