@@ -1,0 +1,24 @@
+{
+  "name": "@ivit/color-proportions",
+  "version": "1.0.3",
+  "private": true,
+  "description": "hoe is de vlakverdeling in het item",
+  "source": "src/index.tsx",
+  "main": "dist/index.js",
+  "types": "dist/types.d.ts",
+  "dependencies": {
+    "@citolab/preact-store": "^2.0.7",
+    "@react-hook/mouse-position": "^4.1.3",
+    "preact": "10.7.3"
+  },
+  "devDependencies": {
+    "@citolab/tspci": "^2.0.7",
+    "@citolab/tspci-qbci": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "set ROLLUP_WATCH=true && tspci --dev qbci",
+    "package-qbci": "tspci --target qbci"
+  },
+  "": "",
+  "typeIdentifier": "colorProportions"
+}

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 643.5 896.5"
+preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <clipPath id="a">
+      <rect width="643.5" height="896" fill="none"/>
+    </clipPath>
+    <clipPath id="b">
+      <rect width="640" height="896.5" fill="none"/>
+    </clipPath>
+  </defs>
+
+  <g transform="translate(0 .5)" clip-path="url(#a)" fill="none" stroke="#bcbcbc" stroke-dasharray="3 3">
+    <line data-name="Line 28" y2="896" transform="translate(.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(32.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(64.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(96.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(128.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(160.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(192.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(224.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(256.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(288.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(320.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(352.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(384.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(416.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(448.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(480.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(512.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(544.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(576.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(608.5)"/>
+    <line data-name="Line 28" y2="896" transform="translate(640.5)"/>
+  </g>
+  <g transform="translate(.5)" clip-path="url(#b)" fill="none" stroke="#bcbcbc" stroke-dasharray="3 3">
+    <line data-name="Line 29" x2="640" transform="translate(0 .5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 32.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 64.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 96.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 128.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 160.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 192.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 224.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 256.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 288.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 320.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 352.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 384.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 416.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 448.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 480.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 512.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 544.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 576.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 608.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 640.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 672.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 704.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 736.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 768.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 800.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 832.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 864.5)"/>
+    <line data-name="Line 29" x2="640" transform="translate(0 896.5)"/>
+  </g>
+  <g id="giveColor" transform="translate(.5 .5)" fill="#fff" stroke="#5c5c5c" stroke-width="3">
+    <rect data-name="192" width="512" height="384" transform="translate(64 64)"/>
+    <rect data-name="96" width="256" height="384" transform="translate(65 448)"/>
+    <rect data-name="48" width="256" height="192" transform="translate(320 448)"/>
+    <rect data-name="24" width="128" height="192" transform="translate(320 640)"/>
+    <rect data-name="12B" width="128" height="96" transform="translate(448 736)"/>
+    <rect data-name="12A" width="128" height="96" transform="translate(448 640)"/>
+  </g>
+</svg>
